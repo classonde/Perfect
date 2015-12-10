@@ -31,3 +31,15 @@ DerivedData
 # Carthage/Checkouts
 
 Carthage/Build
+
+*.d
+
+*.o
+
+*.swiftdeps
+
+*.swiftdoc
+
+*.swiftmodule
+
+*.so
